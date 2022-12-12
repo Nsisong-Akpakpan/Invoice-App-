@@ -1,0 +1,99 @@
+{
+  "invoiceDetails": [
+    {
+      "invoiceNumber": "",
+      "from": "",
+      "to": "",
+      "date": "",
+      "paymentTerms": "",
+      "dueDate": "",
+      "poNumber": "",
+      "notes": "",
+      "terms": "",
+      "id": 1
+    },
+    {
+      "invoiceNumber": "1",
+      "from": "Idara",
+      "to": "Ekom",
+      "date": "1/10/1995",
+      "paymentTerms": "Mutual",
+      "dueDate": "2/5/9999",
+      "poNumber": "6",
+      "id": 2
+    },
+    {
+      "invoiceNumber": "1",
+      "from": "Idara",
+      "to": "Ekom",
+      "date": "1/10/1995",
+      "paymentTerms": "Mutual",
+      "dueDate": "2/5/9999",
+      "poNumber": "6",
+      "id": 3
+    },
+    {
+      "invoiceNumber": "1",
+      "from": "Idara",
+      "to": "Ekom",
+      "date": "1/10/1995",
+      "paymentTerms": "Mutual",
+      "dueDate": "2/5/9999",
+      "poNumber": "6",
+      "id": 4
+    },
+    {
+      "invoiceNumber": "1",
+      "from": "Idara",
+      "to": "Ekom",
+      "date": "1/10/1995",
+      "paymentTerms": "Mutual",
+      "dueDate": "2/5/9999",
+      "poNumber": "6",
+      "id": 5
+    },
+    {
+      "invoiceNumber": "1",
+      "from": "Idara",
+      "to": "Ekom",
+      "date": "1/10/1995",
+      "paymentTerms": "Mutual",
+      "dueDate": "2/5/9999",
+      "poNumber": "6",
+      "id": 6
+    },
+    {
+      "invoiceNumber": "1",
+      "from": "Idara",
+      "to": "Ekom",
+      "date": "1/10/1995",
+      "paymentTerms": "Mutual",
+      "dueDate": "2/5/9999",
+      "poNumber": "6",
+      "id": 7
+    }
+  ],
+  "tableData": [
+    {
+      "item": "Tomato",
+      "quantity": "5",
+      "rate": "8",
+      "amount": "29",
+      "id": 1
+    },
+    {
+      "item": "Palm oil",
+      "quantity": "1",
+      "rate": "2",
+      "amount": "3",
+      "id": 2
+    },
+    {
+      "item": "Tomato",
+      "quantity": "3",
+      "rate": "6",
+      "amount": "5",
+      "id": 3
+    }
+  ]
+}
