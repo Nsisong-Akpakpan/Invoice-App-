@@ -1,3 +1,7 @@
+# Instructions
+1. To get started with the installation of the JSON server, all we need to do is to open  the Terminal of our system and type the following command.
+2. Run this command: "npx json-server --watch -p 3333 server.json" on your VS code terminal to watch the Json file
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

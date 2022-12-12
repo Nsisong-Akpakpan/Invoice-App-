@@ -94,6 +94,20 @@
       "rate": "6",
       "amount": "5",
       "id": 3
+    },
+    {
+      "item": "Palm oil",
+      "quantity": "2",
+      "rate": "8",
+      "amount": "12",
+      "id": 4
+    },
+    {
+      "item": "Palm oil",
+      "quantity": "2",
+      "rate": "8",
+      "amount": "12",
+      "id": 5
     }
   ]
 }
