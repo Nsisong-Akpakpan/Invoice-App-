@@ -1,5 +1,5 @@
 # Instructions
-1. To get started with the installation of the JSON server, all you need to do is to open  the Terminal of our system and type the following command:
+1. To get started with the installation of the JSON server, all you need to do is to open  the Terminal of our system and type the command:
 "npm install -g json-server"
 2. Run this command: "npx json-server --watch -p 3333 server.json" on your VS code terminal to watch the Json file
 
